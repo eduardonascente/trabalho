@@ -1,9 +1,3 @@
-// Matricula: 2023123456 - João da Silva - joao@email.com
-// Contribuição: Criou as funções para empilhar e desempilhar os alunos
-
-// Matricula: 2023543210 - Maria Oliveira - maria@email.com
-// Contribuição: Fez a função de busca e ajudou com os testes
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
